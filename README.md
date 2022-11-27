@@ -37,7 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.florianbeme.fr"><img src="https://img.shields.io/badge/-florianbeme.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.florianbeme.fr"><img src="https://img.shields.io/badge/-florianbeme.fr-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/florian-b%C3%AAme/"><img src="https://img.shields.io/badge/-Florian%20Bême%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 

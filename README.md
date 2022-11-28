@@ -28,7 +28,7 @@
 ![JetBrains](https://img.shields.io/badge/-Jet%20Brains%20Editor-05122A?logo=JetBrains)&nbsp;
 
 <p align="center">
-<a href=">
+<a href="">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlorianBEME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorianBEME&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -37,8 +37,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.florianbeme.fr"><img src="https://img.shields.io/badge/-florianbeme.fr-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/florian-b%C3%AAme/"><img src="https://img.shields.io/badge/-Florian%20Bême%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.florianbeme.fr"><img src="https://img.shields.io/badge/-florianbeme.fr-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/florian-b%C3%AAme/"><img src="https://img.shields.io/badge/-Florian%20Bême%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 -----

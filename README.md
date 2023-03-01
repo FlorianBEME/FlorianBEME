@@ -21,7 +21,7 @@
 ![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![api](https://img.shields.io/badge/-Api%20Platform-05122A)&nbsp;
-![bash]([https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony](https://img.shields.io/badge/-bash-05122A?style=flat&logo=gnubash))&nbsp;
+![bash](https://img.shields.io/badge/-bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

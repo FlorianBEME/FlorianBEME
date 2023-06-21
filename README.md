@@ -29,7 +29,6 @@
 
 <p align="center">
 <a href="">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlorianBEME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorianBEME&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -43,4 +42,4 @@
 
 -----
 ![](https://komarev.com/ghpvc/?FlorianBEME&style=flat-square)
-Last Edited on: 06/09/2022
+Last Edited on: 21/06/2023

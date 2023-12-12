@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Php and bash.\
-✉️ &nbsp;You can shoot me an email at florianbme@gmail.com! I'll try to respond as soon as I can.\
+🎓 &nbsp;I'm currently discover Next JS.\
+✉️ &nbsp;You can shoot me an email at bemeflorian@gmail.com! I'll try to respond as soon as I can.\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,9 +28,9 @@
 ![JetBrains](https://img.shields.io/badge/-Jet%20Brains%20Editor-05122A?logo=JetBrains)&nbsp;
 
 <p align="center">
-<a href="">
+<!-- <a href="">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlorianBEME&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+</a> -->
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -42,4 +42,4 @@
 
 -----
 ![](https://komarev.com/ghpvc/?FlorianBEME&style=flat-square)
-Last Edited on: 21/06/2023
+Last Edited on: 12/12/2023

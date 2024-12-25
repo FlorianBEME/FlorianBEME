@@ -1,11 +1,5 @@
 
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently discover Next JS.\
 ✉️ &nbsp;You can shoot me an email at bemeflorian@gmail.com! I'll try to respond as soon as I can.\
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,4 +34,4 @@
 
 -----
 ![](https://komarev.com/ghpvc/?FlorianBEME&style=flat-square)
-Last Edited on: 02/06/2024
+Last Edited on: 12/2025
